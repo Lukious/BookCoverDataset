@@ -1,4 +1,4 @@
-# KOREA Book Cove Dataset
+# KOREA Book Cover Dataset
 Korea Book Cover Dataset
 
 한국 책표지 데이터셋입니다.
